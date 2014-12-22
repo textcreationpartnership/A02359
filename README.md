@@ -36,16 +36,77 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Three rare monuments of antiquitie, or Bertram, priest, a French-man, of the body and blood of Chris
+
+1. To the truelie Noble,
+and right honourable,
+VVILLIAM,
+EARLE,
+Marshall of Scotland,
+Lord Keyth and Altrie, &c.
+My singular good Lord,
+and Patron:
+AND TO
+The Right Honourable, His most
+Worthie & Religious Ladie; the
+Gracious Daughter of a most
+Godlie Mother.
+
+1. TO THE READER.
+
+1. The Life of
+BERTRAM,
+PRIEST,
+BY IOHN TRITHEMIVS,
+a Popish Histriographer.
+
 #####Body#####
 
-1. THE PREFACE.
+1. BERTRAM
+His Treatise
+Of the Bodie and Blood
+OF CHRIST:
+TO CHARLES, King of FRANCE,
+Nephew to CHARLES, the
+Great Emperour.
+
+    _ THE PREFACE.
 YOVR High
 Excellence desires
 then to vnderstād,The two Questions which this Trea•ise proponeth.
 If WE must looke now
 to the drift of the
 second Question,The second Question, Whether the matter of the
+1. The Purging of
+BERTRAM,
+
+1. An ancient Sermon,
+of AELFRICVS,
+Arch-bishop of Canterburie,
+an English-man,
+OF THE SACRAMENT:
+Convincing the late Errour now-a-dayes
+of Trans-substantiation.
+Preached in the time of Etheldred,
+King, And in the Yeare of our
+LORD 996. Vttered in the
+SAXON Tongue: And
+thereafter in an old
+English translated.
+
+1. A Notable Short
+DISCOVRSE,
+VVritten by a Scots-man,
+(AS BALE vvitnesseth)
+OF THE SACRAMENT:
+Who lived in that same Age with
+BERTRAM, 800 yeares agoe: named
+RABANVS, or Magnentius
+Maurus: learned in all Sciences,
+A Professor long in the
+Vniversitie of Paris,
+and at last made
+An Abbot, vnder Lodovicus Pius.
+
 **Types of content**
 
   * There are 10 **verse** lines!
